@@ -32,6 +32,7 @@ This project focuses on optimizing the General Matrix Multiply (GEMM) algorithm 
 ## Results
 
 The optimizations conducted on the GEMM algorithm led to a significant enhancement in performance, demonstrating the effectiveness of the employed strategies.
+![Code Execution and Output](./img1.jpg)
 
 ## Optimization Report
 
